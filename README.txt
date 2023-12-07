@@ -7,7 +7,7 @@ Project DEEP for ESEO. BATAK
 * Ne prenez pas ces codes pour vos projets merci.
 
 
-* This is a student project for at least 54 months.
+* This is a student project for at least 5 months.
 * We use a STM32F103.
 * Our objectif is to create a BATAK (reflex test machine for driver and goalkeeper for exemple).
 * Don't use this code for your project thanks.
