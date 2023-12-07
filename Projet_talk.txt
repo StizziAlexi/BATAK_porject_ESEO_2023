@@ -5,4 +5,7 @@
 * Implémenté le temps "Alexi"
 * Créer le high score for ever "Alexi"
 * Test validation fin de projet
-* Fête de fin de projet
+
+Fête de fin de projet
+
+** Evidement test sur toute les avancés de projet **
