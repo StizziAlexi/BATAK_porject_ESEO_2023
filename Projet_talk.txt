@@ -1,0 +1,8 @@
+* Faire les boutons "Alexi"
+* Mettre essemble les boutons et les LEDs "Alexi"
+* Faire la structure (Tableau en bois || Boutons + LEDs, afficheurs scores et Bargraphe) "Alix" (création avec solidworks)
+* Implémenté le système de score (joueur actuel, et high score BATAK alummé) "Alexi"
+* Implémenté le temps "Alexi"
+* Créer le high score for ever "Alexi"
+* Test validation fin de projet
+* Fête de fin de projet
