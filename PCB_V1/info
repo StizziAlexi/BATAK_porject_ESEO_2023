@@ -1,0 +1,288 @@
+{
+  "uuid": "94fa2658b1156d30a469fcf714d1647b",
+  "path": "Offline/projet_pcb_bluepill_f103.SchDoc",
+  "name": "projet_pcb_bluepill_f103.SchDoc",
+  "content": "",
+  "created_at": "2023-11-24 08:55:29",
+  "updated_at": "2023-12-11 17:15:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9e3cdf38a5c716c42e44634cfbe7e7cc",
+      "title": "projet_pcb_bluepill_f103.SchDoc",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "200d51a0288e46ebb0221bcbca8002d8": 1,
+        "dfdf002ec1484d0fad523511076b340d": 4,
+        "f9535b12a4924fd1bf297f3433091e3f": 4,
+        "b0248eb51e084227889f2cb84eab79c4": 3,
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 22,
+        "e866eed2c6d1429198e43cd48fe1fea9": 1,
+        "6b6ad5031ecd4298ae392a433e2722fb": 2,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "ef5c58af5a11447fbd75b8c5d39d3f78": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CD4511BE",
+          1,
+          "DIP-16_L20.3-W10.2-P2.54-LS10.2-BL",
+          "AFFICHEUR_7",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "tarharnak",
+            "spiceSymbolName": "CD4511BE",
+            "puuid": "7e10a45c45da41da8c852bb0f30065ca",
+            "uuid": "200d51a0288e46ebb0221bcbca8002d8"
+          }
+        ],
+        [
+          "LM3914N-1/NOPB",
+          1,
+          "DIP-18_L23.0-W6.5-P2.54-LS7.6-BL",
+          "BARGRAPHE",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "LM3914N-1/NOPB",
+            "Supplier Part": "C9408",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C9408&%26type=1&ref=editor",
+            "spiceSymbolName": "LM3914N-1/NOPB",
+            "puuid": "410e4c6012dc4e80aa77814f280c208f",
+            "uuid": "e866eed2c6d1429198e43cd48fe1fea9"
+          }
+        ],
+        [
+          "1µ",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "LED-0603_R",
+          22,
+          "LED0603_RED",
+          "LED1,LED1*,LED2,LED2*,LED3,LED3*,LED4,LED4*,LED5,LED5*,LED6,LED6*,LED7,LED7*,LED8,LED8*,LED9,LED9*,LED10,LED10*,LED11*,LED12*",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Supplier Part": "C72044",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_01",
+            "spiceSymbolName": "LED-0603_R",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "330",
+          1,
+          "R0603",
+          "R5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "2.2k",
+          1,
+          "R0603",
+          "R6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "3.3k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "SEG-TH_0.56×1_Cathode",
+          4,
+          "LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL",
+          "SEG1,SEG2,SEG3,SEG4",
+          {
+            "Manufacturer": "志浩",
+            "Manufacturer Part": "",
+            "Supplier Part": "C8093",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "LCEDA_01",
+            "spiceSymbolName": "SEG-TH_0.56×1_Cathode",
+            "puuid": "578a9f84d0884b7fb0d3f89c2458867d",
+            "uuid": "dfdf002ec1484d0fad523511076b340d"
+          }
+        ],
+        [
+          "SI2302-NMOSFET",
+          4,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U1,U2,U3,U4",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900002167",
+            "Manufacturer": "null",
+            "Manufacturer Part": "si2302-nmosfet",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C9900002167&%26type=1&ref=editor",
+            "spiceSymbolName": "SI2302-NMOSFET",
+            "puuid": "bade90667a6e4731855e9a223387b8a6",
+            "uuid": "f9535b12a4924fd1bf297f3433091e3f"
+          }
+        ],
+        [
+          "registe-1",
+          1,
+          "PDIP-16_L19.3-W6.4-P2.54-LS7.9-BL",
+          "U5",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2871902",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "CD74HC595E",
+            "link": "https://lcsc.com/eda_search?q=C2871902&%26type=1&ref=editor",
+            "spiceSymbolName": "CD74HC595E",
+            "puuid": "5274406e19354d008c5fde605f0c6ecf",
+            "uuid": "6b6ad5031ecd4298ae392a433e2722fb"
+          }
+        ],
+        [
+          "registre-2",
+          1,
+          "PDIP-16_L19.3-W6.4-P2.54-LS7.9-BL",
+          "U8",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2871902",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "CD74HC595E",
+            "link": "https://lcsc.com/eda_search?q=C2871902&%26type=1&ref=editor",
+            "spiceSymbolName": "CD74HC595E",
+            "puuid": "5274406e19354d008c5fde605f0c6ecf",
+            "uuid": "6b6ad5031ecd4298ae392a433e2722fb"
+          }
+        ],
+        [
+          "STM32 BLUE PILL COPY",
+          1,
+          "BLUEPILL",
+          "U9",
+          {
+            "link": "http://wiki.stm32duino.com/index.php?title=Blue_Pill",
+            "Contributor": "M2k Pcb",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "STM32 BLUE PILL COPY",
+            "Manufacturer Part": "",
+            "puuid": "b35129af15c94f00a449c8f6aa227970",
+            "uuid": "ef5c58af5a11447fbd75b8c5d39d3f78"
+          }
+        ]
+      ],
+      "updateTime": 1702311326,
+      "createTime": 1700812529,
+      "histories": [],
+      "created_at": "2023-11-24 08:55:29",
+      "updated_at": "2023-12-11 17:15:26"
+    },
+    {
+      "uuid": "07a94ff29316360452ca161d43c89efb",
+      "puuid": "94fa2658b1156d30a469fcf714d1647b",
+      "title": "PCB_projet_pcb_bluepill_f103.SchDoc",
+      "filename": "PCB_projet_pcb_bluepill_f103.SchDoc.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7e10a45c45da41da8c852bb0f30065ca": 1,
+        "410e4c6012dc4e80aa77814f280c208f": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 22,
+        "398691f1f785460098bbe5ee6590333c": 4,
+        "578a9f84d0884b7fb0d3f89c2458867d": 4,
+        "bade90667a6e4731855e9a223387b8a6": 4,
+        "5274406e19354d008c5fde605f0c6ecf": 2,
+        "b35129af15c94f00a449c8f6aa227970": 1
+      },
+      "BOM": [],
+      "updateTime": 1702146425,
+      "createTime": 1702134867,
+      "histories": [],
+      "created_at": "2023-12-09 16:14:27",
+      "updated_at": "2023-12-09 19:27:05"
+    }
+  ],
+  "sort": [],
+  "title": "projet_pcb_bluepill_f103.SchDoc",
+  "foldername": "projet_pcb_bluepill_f103.SchDoc",
+  "schfilename": "projet_pcb_bluepill_f103.SchDoc.json",
+  "schfilemtime": 1702311326706
+}
