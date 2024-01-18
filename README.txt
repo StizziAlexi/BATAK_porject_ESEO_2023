@@ -1,14 +1,20 @@
-# BATAK_porject_ESEO_2023
+Projet_BATAK_ESEO_2023
 
-* C'est un projet étudiant d'une durée de 5 mois.
+* Il s'agit d'un projet étudiant d'une durée de 5 mois.
 * Nous utilisons un STM32F103.
-* Notre objectif est de créer un BATAK (test de réflexes utilisé chez les pilotes et les gardiens de but notamment).
-* Ne prenez pas ces codes pour vos projets, merci.
-
+* Notre objectif est de créer un BATAK (test de réflexes utilisé notamment par les pilotes et les gardiens de but).
+* Merci de ne pas utiliser ce code pour vos propres projets.
 
 * This is a student project lasting for at least 5 months.
 * We use an STM32F103.
-* Our objective is to create a BATAK (reflex test machine for drivers and goalkeepers, for example).
-* Do not use this code for your project, thanks.
- 
-Finished!
+* Our goal is to create a BATAK (reflex test machine used by drivers and goalkeepers, for example).
+* Do not use this code for your projects, thanks.
+
+Terminé !
+Finish !
+
+* Nous avons créé un BATAK.
+* Cependant, un problème persiste avec le bargraphe : le driver doit être remplacé par un registre à décalage.
+
+* We have created the BATAK.
+* However, there is an issue with the bargraph; the current driver needs to be replaced by a shift register.
