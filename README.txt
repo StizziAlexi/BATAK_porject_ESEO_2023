@@ -15,6 +15,7 @@ Finish !
 
 * Nous avons créé un BATAK.
 * Cependant, un problème persiste avec le bargraphe : le driver doit être remplacé par un registre à décalage.
+* Voici le lien pour la vidéo en français: https://www.youtube.com/watch?v=2RmNbjxtR2U
 
 * We have created the BATAK.
 * However, there is an issue with the bargraph; the current driver needs to be replaced by a shift register.
